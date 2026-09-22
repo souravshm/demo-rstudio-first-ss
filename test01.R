@@ -6,7 +6,6 @@ head(mtcars)
 
 mean_mpg <- mean(mtcars$mpg)
 
-
 #view the mean
 
 mean_mpg
